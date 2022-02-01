@@ -1,5 +1,5 @@
 # messapp
-This app is for me to learn how to build a messaging app using Twilio and Python
+This app is for me to learn how to build a messaging app using Twilio and React.js
 
 # Getting Started with Create React App
 
